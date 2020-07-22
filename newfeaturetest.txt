@@ -1,1 +1,3 @@
-New feature branch testing
+New feature branch testing 
+
+What happens if I change newfeatuer file after merging with master
